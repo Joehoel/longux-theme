@@ -19,14 +19,19 @@
         ]
     },
     "repository": {
-        "directory": ".git",
         "type": "git",
-        "url": "https://github.com/Joehoel/longux-theme.git"
+        "url": "https://github.com/joehoel/longux-theme.git"
     },
     "author": {
         "email": "jmkuijper@gmail.com",
         "name": "Joël Kuijper",
         "url": "https://joelkuijper.me"
     },
-    "publisher": "jmkuijper"
+    "publisher": "jmkuijper",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "bugs": {
+        "url": "https://github.com/joehoel/longux-theme/issues",
+        "email": "jmkuijper@gmail.com"
+    },
+    "homepage": "https://github.com/joehoel/longux-theme/blob/master/README.md"
 }
