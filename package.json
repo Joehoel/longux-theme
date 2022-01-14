@@ -17,5 +17,15 @@
                 "path": "./themes/Longux-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "directory": ".git",
+        "type": "git",
+        "url": "https://github.com/Joehoel/longux-theme.git"
+    },
+    "author": {
+        "email": "jmkuijper@gmail.com",
+        "name": "Joël Kuijper",
+        "url": "https://joelkuijper.me"
     }
 }
